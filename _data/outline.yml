@@ -5387,6 +5387,14 @@
           image: "assets/img/tools/encore.png"
           description: "Encore is an AI-native Open Source Framework for building robust distributed systems, using a declarative approach ensuring performance, security, and quality."
           url: https://encore.dev/
+    - type: Infrastructure from Graph
+      tools:
+        - title: "System Initiative"
+          image_width: 180
+          image_height: 51
+          image: "assets/img/tools/system-initiative.jpg"
+          description: "System Initiative is the future of DevOps Automation. It is an Intuitive, Powerful, and Collaborative replacement for Infrastructure as Code."
+          url: "https://www.systeminit.com/"
 
 
 - title: "Open Source Code Samples"
