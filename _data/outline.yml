@@ -3219,7 +3219,7 @@
       image: "assets/img/books/seven-databases-in-seven-weeks.jpg"
       description: "Data is getting bigger and more complex by the day, and so are your choices in handling it. Explore some of the most cutting-edge databases available - from a traditional relational database to newer NoSQL approaches - and make informed decisions about challenging data storage problems. This is the only comprehensive guide to the world of NoSQL databases, with in-depth practical and conceptual introductions to seven different technologies: Redis, Neo4J, CouchDB, MongoDB, HBase, Postgres, and DynamoDB. This second edition includes a new chapter on DynamoDB and updated content for each chapter."
       subtitle: "A Guide to Modern Databases and the NoSQL Movement"
-      author: "Eric Redmond and Jim Wilson"
+      author: "Luc Perkins, Eric Redmond, and Jim Wilson"
       publisher: "Pragmatic Bookshelf"
       url: "https://amzn.to/3BTZKhu"
     - title: "I Heart Logs"
