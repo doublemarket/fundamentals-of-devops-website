@@ -4,11 +4,10 @@
       {% include image.html path=include.image alt=include.author loading="lazy" %}
     </a>
   </div>
-  <div class="sm-col sm-col-8 px2 thin">
-    <p class="mt0 quote italic h3">
-      <span class="quote quote-margin">&ldquo;</span>{{ include.quote | strip }}<span class="quote">&rdquo;</span>
-    </p>
-    <p class="light-gray">
+  <div class="sm-col sm-col-8 px2 pt3">
+    <p class="quote mt0 mb0">&ldquo;</p>
+    <p class="mt0 thin">{{ include.quote | strip }}</p>
+    <p class="light-gray thin">
       <a href="{{ include.url }}" target="blank" class="tracked" data-trk="click-praise-quote-{{ include.id }}">{{ include.author | strip }}</a>,
       {{ include.title }}
     </p>
